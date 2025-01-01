@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fırat</h1>
-/*<h3 align="center">I want a be Full-stack Web Developer.</h3>*/
 - 🌱 I’m currently learning **Asp.net MVC**
 
 - 📫 How to reach me **firatyagci50@gmail.com**
